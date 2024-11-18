@@ -71,7 +71,7 @@ graph TD;
     B --> E[Variables];
     A --> F[powervc_oracle_play.yml Playbook];
     F --> G[Creating PowerVC VM];
-    F --> vars/powervc_oracle_params.yml Variables];
+    F --> H[vars/powervc_oracle_params.yml Variables];
 
 %% Swimm:
 %% graph TD;
