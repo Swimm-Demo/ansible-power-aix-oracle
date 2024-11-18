@@ -81,7 +81,7 @@ graph TD;
 %%     B --> E[Variables];
 %%     A --> F[powervc_oracle_play.yml Playbook];
 %%     F --> G[Creating <SwmToken path="powervc_oracle_play.yml" pos="2:11:11" line-data="- name: &quot;Play1: Creating PowerVC VM&quot; ">`PowerVC`</SwmToken> VM];
-%%     F --> <SwmPath>[vars/powervc_oracle_params.yml](vars/powervc_oracle_params.yml)</SwmPath> Variables];
+%%     F --> H[<SwmPath>[vars/powervc_oracle_params.yml](vars/powervc_oracle_params.yml)</SwmPath> Variables];
 ```
 
 &nbsp;
