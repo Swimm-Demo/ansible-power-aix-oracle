@@ -1,0 +1,20 @@
+{
+  "generator": "docusaurus",
+  "url": "https://example.test/",
+  "docs": {
+    "introduction-to-oracle-installation-role.jwjooj1j.sw.md": "Docs",
+    "configuration-overview.8edb2sei.sw.md": "Docs",
+    "roles-overview.51cqkw3k.sw.md": "Docs",
+    "overview.l8indf4q.sw.md": "Docs",
+    "using-ansible-in-the-ansible-power-aix-oracle-repository.zebojpmi.sw.md": "Docs",
+    "introduction-to-oracle-database-creation.ndqtdwln.sw.md": "Docs",
+    "understanding-preconfiguration-in-roles.1qmmgm66.sw.md": "Docs",
+    "getting-started-with-powervc-oracle-configuration-parameters.qxiv08vk.sw.md": "Docs",
+    "exploring-oracle-configuration-parameters.1a3a2cyd.sw.md": "Docs",
+    "understanding-powervc-aix-vm-creation.8aiacvh6.sw.md": "Docs"
+  },
+  "config": {
+    "title": "Swimm Docs",
+    "tagline": "Get started in minutes"
+  }
+}
